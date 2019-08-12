@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">camera_sample</string>
+    <string name="measure_pulse">Measure</string>
+    <string name="send_status">Send Data</string>
+</resources>
